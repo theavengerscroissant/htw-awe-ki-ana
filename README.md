@@ -1,15 +1,6 @@
-# Notebook 1: Grundlagen & Datenimport für Regression
+# Notebooks zwischen den Lektüren
 
-## Ziel
-
-Einführung in die Regression und erste Schritte zur Datenexploration.
-
-## Inhalte
-
-### Einführung in das Regressionsproblem
-
-- Überblick über Regression und typische Anwendungsfälle.
-- Vorstellung gängiger Evaluationsmetriken wie RMSE, MAE und R².
+## Notebook 1: Grundlagen & Datenimport für Regression
 
 ### Datenimport & erste Schritte
 
@@ -24,13 +15,7 @@ Einführung in die Regression und erste Schritte zur Datenexploration.
 
 ---
 
-# Notebook 2: Explorative Datenanalyse (EDA) und Datenvorverarbeitung
-
-## Ziel
-
-Die bereitgestellten Daten besser verstehen und vorbereiten, um Regression effektiv anwenden zu können.
-
-## Inhalte:
+## Notebook 2: Explorative Datenanalyse (EDA) und Datenvorverarbeitung
 
 ### Detaillierte EDA
 
@@ -44,19 +29,9 @@ Die bereitgestellten Daten besser verstehen und vorbereiten, um Regression effek
 - Feature Scaling: Normalisierung oder Standardisierung (z. B. mit dem `StandardScaler` aus scikit-learn).
 - Aufteilung der Daten in Trainings- und Testdaten (z. B. mit `train_test_split`).
 
-### Praxis-Beispiel
-
-- Anwendung des gesamten Vorverarbeitungsprozesses anhand eines synthetisch generierten Datensatzes (z. B. mittels `sklearn.datasets.make_regression`).
-
 ---
 
-# Notebook 3: Training und Evaluierung von Regressionsmodellen
-
-## Ziel
-
-Training verschiedener Regressionsmodelle sowie deren Performancebewertung.
-
-## Inhalte
+## Notebook 3: Training und Evaluierung von Regressionsmodellen
 
 ### Modelle im Vergleich
 
@@ -80,13 +55,7 @@ Training verschiedener Regressionsmodelle sowie deren Performancebewertung.
 
 ---
 
-# Notebook 4: Hyperparameter-Tuning und Modelloptimierung
-
-## Ziel
-
-Optimierung der Regressionsmodelle zur Verbesserung ihrer Vorhersagegenauigkeit.
-
-## Inhalte
+## Notebook 4: Hyperparameter-Tuning und Modelloptimierung
 
 ### Hyperparameter-Tuning
 
