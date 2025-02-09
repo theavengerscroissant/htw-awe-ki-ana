@@ -78,5 +78,4 @@
 - Vergleich optimierter Modelle mit den Baseline-Modellen aus Notebook 3.
 - Diskussion über den Einfluss spezifischer Parameter auf die Leistung des Modells.
 
-Google Colab: 
 [Notebook 4](https://colab.research.google.com/github/theavengerscroissant/htw-awe-ki-ana/blob/main/notebooks/lecture_4_optimization.ipynb)
