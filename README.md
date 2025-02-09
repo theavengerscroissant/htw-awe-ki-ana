@@ -13,6 +13,8 @@
 - Erstellung von Histogrammen und Boxplots zur Darstellung der Feature-Verteilungen (mit matplotlib).
 - Scatterplots zwischen ausgewählten Features und dem Zielwert plotten.
 
+[Notebook 1](https://colab.research.google.com/github/theavengerscroissant/htw-awe-ki-ana/blob/main/notebooks/lecture_1_visualization.ipynb)
+
 ---
 
 ## Notebook 2: Explorative Datenanalyse (EDA) und Datenvorverarbeitung
@@ -28,6 +30,8 @@
 - Umgang mit fehlenden Werten durch Imputationstechniken.
 - Feature Scaling: Normalisierung oder Standardisierung (z. B. mit dem `StandardScaler` aus scikit-learn).
 - Aufteilung der Daten in Trainings- und Testdaten (z. B. mit `train_test_split`).
+
+[Notebook 2](https://colab.research.google.com/github/theavengerscroissant/htw-awe-ki-ana/blob/main/notebooks/lecture_2_preparation.ipynb)
 
 ---
 
@@ -53,6 +57,8 @@
 
 - Diskussion darüber, welches Modell unter welchen Bedingungen am besten performt.
 
+[Notebook 3](https://colab.research.google.com/github/theavengerscroissant/htw-awe-ki-ana/blob/main/notebooks/lecture_3_regression.ipynb)
+
 ---
 
 ## Notebook 4: Hyperparameter-Tuning und Modelloptimierung
@@ -71,3 +77,6 @@
 
 - Vergleich optimierter Modelle mit den Baseline-Modellen aus Notebook 3.
 - Diskussion über den Einfluss spezifischer Parameter auf die Leistung des Modells.
+
+Google Colab: 
+[Notebook 4](https://colab.research.google.com/github/theavengerscroissant/htw-awe-ki-ana/blob/main/notebooks/lecture_4_optimization.ipynb)
